@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+.snakbar{
+  background-color: rgb(255, 106, 0);
+  border-radius: 10px;
+  font-weight: bolder;
+  max-width: 900px;
+}
+.box_class{
+  top: 60px;
+  position: relative;
+  
+  height: 100vh;
+  
+}
+
